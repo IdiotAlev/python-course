@@ -25,6 +25,7 @@ del(dicA["marron"])
 print(dicA)
 
 #len() -> cuenta 
+print(len(dicA))
 
 """metodos diccionario"""
 #.get -> busca un valor a partir de la clave, si no lo encuentra muestra el mensaje
