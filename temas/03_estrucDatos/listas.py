@@ -13,6 +13,9 @@ Mutables(Agregar, borrar, modificar
 #Esta lista tiene 4 elementos incluyendo el 0
 listaX = [True, 18, 34.9, False, "Si"]
 
+#consultar los elementos de una lista 
+print(listaX)
+
 #consultar posicion de la lista
 print(listaX[4])
 
